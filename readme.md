@@ -111,3 +111,7 @@ docker-compose up --build
 ## Autor
 
 Gabriel Soares Evangelista - [@gabrielsoaresevt](https://www.linkedin.com/in/gabriel-soares-evangelista)
+
+## 📄 Licença
+### The MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
