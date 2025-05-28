@@ -3,7 +3,6 @@ import json
 import psycopg2
 import time
 
-# Função que tenta conectar ao Kafka com retries e delay
 def wait_for_kafka(bootstrap_servers, retries=10, delay=5):
     for i in range(retries):
         try:
