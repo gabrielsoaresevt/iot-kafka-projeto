@@ -96,6 +96,8 @@ docker-compose down
 docker-compose up --build
 ```
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - Python 3.10
